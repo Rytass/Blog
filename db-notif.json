@@ -1,3 +1,10 @@
 {
-  "notifs": []
+  "notifs": [
+    {
+      "id": "cixlr7j520000xodl9is81cru",
+      "slug": "hello-world",
+      "date": "2017-01-05T18:39:07.000Z",
+      "updated": "2017-01-06T11:56:43.000Z"
+    }
+  ]
 }
